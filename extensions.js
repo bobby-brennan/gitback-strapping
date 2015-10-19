@@ -1,0 +1,5 @@
+{
+  access: {
+    get: 'all',
+  }
+}
