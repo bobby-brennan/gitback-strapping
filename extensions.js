@@ -4,7 +4,7 @@
   },
   attachments: {
     styles: {
-      extension: 'css',
+      extension: 'less',
       strategy: 'link',
     }
   }
